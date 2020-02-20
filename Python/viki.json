@@ -1,0 +1,21 @@
+{
+    "brand": "Python-100Days",
+    "title": "Python-100Days,GitHub上开源学习Python最佳项目",
+    "favicon": "/resources/Python-100-Days-MWeb.png",
+    "footer": "",
+    "show_suffix": false,
+    "load_before_search": true,
+    "fuzzy_search": false,
+    "markdown":
+    {
+        "html": true,
+        "breaks": false,
+        "linkify": false,
+        "typographer": false,
+        "lang_prefix": "lang-",
+        "image_caption": true,
+        "plantuml_server": "http://www.plantuml.com/plantuml",
+        "plantuml_format": "svg",
+        "code_block_line_number": false
+    }
+}

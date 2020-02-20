@@ -1,0 +1,158 @@
+{
+    "created_time": "2020-02-18T12:41:15Z",
+    "files": [
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-02-18T12:41:15Z",
+            "modified_time": "2020-02-18T12:41:15Z",
+            "name": "76.机器学习基础.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-02-18T12:41:15Z",
+            "modified_time": "2020-02-18T12:41:15Z",
+            "name": "77.Pandas的应用.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-02-18T12:41:15Z",
+            "modified_time": "2020-02-18T12:41:15Z",
+            "name": "78.NumPy和SciPy的应用.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-02-18T12:41:15Z",
+            "modified_time": "2020-02-18T12:41:15Z",
+            "name": "79.Matplotlib和数据可视化.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-02-18T12:41:15Z",
+            "modified_time": "2020-02-18T12:41:15Z",
+            "name": "80.k最近邻分类.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-02-18T12:41:15Z",
+            "modified_time": "2020-02-18T12:41:15Z",
+            "name": "81.决策树.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-02-18T12:41:15Z",
+            "modified_time": "2020-02-18T12:41:15Z",
+            "name": "82.贝叶斯分类.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-02-18T12:41:15Z",
+            "modified_time": "2020-02-18T12:41:15Z",
+            "name": "83.支持向量机.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-02-18T12:41:15Z",
+            "modified_time": "2020-02-18T12:41:15Z",
+            "name": "84.K-均值聚类.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-02-18T12:41:15Z",
+            "modified_time": "2020-02-18T12:41:15Z",
+            "name": "85.回归分析.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-02-18T12:41:15Z",
+            "modified_time": "2020-02-18T12:41:15Z",
+            "name": "86.大数据分析入门.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-02-18T12:41:15Z",
+            "modified_time": "2020-02-18T12:41:15Z",
+            "name": "87.大数据分析进阶.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-02-18T12:41:15Z",
+            "modified_time": "2020-02-18T12:41:15Z",
+            "name": "88.Tensorflow入门.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-02-18T12:41:15Z",
+            "modified_time": "2020-02-18T12:41:15Z",
+            "name": "89.Tensorflow实战.md",
+            "tags": [
+            ]
+        },
+        {
+            "attachment_folder": "",
+            "attachments": [
+            ],
+            "created_time": "2020-02-18T12:41:15Z",
+            "modified_time": "2020-02-18T12:41:15Z",
+            "name": "90.推荐系统实战.md",
+            "tags": [
+            ]
+        }
+    ],
+    "sub_directories": [
+    ],
+    "version": "1"
+}

@@ -1,0 +1,89 @@
+{
+    "navigation":
+    [
+        {
+            "text": "Home",
+            "target": "index.md",
+            "toc": false
+        },
+        {
+            "text": "1-15天",
+            "target": "Day01-15/_vnote.json",
+            "navi": true,
+            "navi_index": "Day01-15/Welcome.md"
+        },
+        {
+            "text": "16-20天",
+            "target": "Day16-20/_vnote.json",
+            "navi": true,
+            "navi_index": "Day16-20/Welcome.md"
+        },
+        {
+            "text": "21-30天",
+            "target": "Day21-30/_vnote.json",
+            "navi": true,
+            "navi_index": "Day21-30/Welcome.md"
+        },
+        {
+            "text": "31-35天",
+            "target": "Day31-35/_vnote.json",
+            "navi": true,
+            "navi_index": "Day31-35/Welcome.md"
+        },
+        {
+            "text": "36-40天",
+            "target": "Day36-40/_vnote.json",
+            "navi": true,
+            "navi_index": "Day36-40/Welcome.md"
+        },
+        {
+            "text": "41-55天",
+            "target": "Day41-55/_vnote.json",
+            "navi": true,
+            "navi_index": "Day41-55/Welcome.md"
+        },
+        {
+            "text": "56-60天",
+            "target": "Day56-60/_vnote.json",
+            "navi": true,
+            "navi_index": "Day56-60/Welcome.md"
+        },
+        {
+            "text": "61-65天",
+            "target": "Day61-65/_vnote.json",
+            "navi": true,
+            "navi_index": "Day61-65/Welcome.md"
+        },
+        {
+            "text": "66-75天",
+            "target": "Day66-75/_vnote.json",
+            "navi": true,
+            "navi_index": "Day66-75/Welcome.md"
+        },
+        {
+            "text": "76-90天",
+            "target": "Day76-90/_vnote.json",
+            "navi": true,
+            "navi_index": "Day76-90/Welcome.md"
+        },
+        {
+            "text": "91-100天",
+            "target": "Day91-100/_vnote.json",
+            "navi": true,
+            "navi_index": "Day91-100/Welcome.md"
+        },
+        {
+            "text": "本地阅读",
+            "target": "read-local.md",
+            "toc": false
+        }
+    ],
+    "actions":
+    [
+        {
+            "text": "GitHub",
+            "icon": "css/github.svg",
+            "target": "https://github.com/jackfrued/Python-100-Days"
+        }
+    ]
+}
